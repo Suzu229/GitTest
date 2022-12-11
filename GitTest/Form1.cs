@@ -6,7 +6,7 @@ namespace GitTest
         {
             InitializeComponent();
 
-            label1.Text = "So, my desire is... an immortal body and infinite potential for growth!!";
+            label1.Text = "Just kidding";
 
         }
     }
